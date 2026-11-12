@@ -1,0 +1,14 @@
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\bin\Debug\net10.0\EmployeePayrollHR.exe
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\bin\Debug\net10.0\EmployeePayrollHR.deps.json
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\bin\Debug\net10.0\EmployeePayrollHR.runtimeconfig.json
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\bin\Debug\net10.0\EmployeePayrollHR.dll
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\bin\Debug\net10.0\EmployeePayrollHR.pdb
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.AssemblyInfoInputs.cache
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.AssemblyInfo.cs
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.csproj.CoreCompileInputs.cache
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.dll
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\refint\EmployeePayrollHR.dll
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.pdb
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\EmployeePayrollHR.genruntimeconfig.cache
+C:\Users\AMD\LibraryManager\EmployeePayrollHR\obj\Debug\net10.0\ref\EmployeePayrollHR.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EmployeePayrollHR/1.0.0": {
+        "runtime": {
+          "EmployeePayrollHR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeePayrollHR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
