@@ -35,7 +35,7 @@ class Program
             Console.Clear();
 
             Console.WriteLine("==============================================");
-            Console.WriteLine(" EMPLOYEE PAYROLL & HR SYSTEM - MAIN VERSION 2");
+            Console.WriteLine(" EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM");
             Console.WriteLine("==============================================");
             Console.WriteLine("1. Create Employee");
             Console.WriteLine("2. Read All Employees");
